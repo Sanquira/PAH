@@ -1,0 +1,1104 @@
+2015-04-14 10:41:09 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:41:09 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:41:09 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:41:09 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:41:10 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 932 millisecond(s)
+2015-04-14 10:41:10 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:41:10 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:41:10 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:41:10 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION MANAGER CREATION
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:41:11 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:41:11 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-14 10:43:05 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:43:05 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:43:05 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:43:06 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:43:06 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 856 millisecond(s)
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION MANAGER CREATION
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:43:07 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:43:08 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:43:08 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:43:08 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:43:08 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:43:08 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-14 10:44:24 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:44:24 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:44:24 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:44:24 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:44:25 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 839 millisecond(s)
+2015-04-14 10:44:25 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:44:25 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:44:25 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:44:25 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION MANAGER CREATION
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:44:26 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:44:26 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-14 10:45:46 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:45:46 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:45:46 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:45:47 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:45:47 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 1139 millisecond(s)
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION MANAGER CREATION
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:45:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:45:49 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:45:49 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:45:49 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:45:49 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:45:49 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-14 10:46:26 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:46:27 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:46:27 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:46:27 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:46:27 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 838 millisecond(s)
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION MANAGER CREATION
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:46:28 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:46:29 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:46:29 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:46:29 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:46:29 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:46:29 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-14 10:47:45 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:47:45 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:47:46 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:47:46 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:47:46 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 880 millisecond(s)
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:47:47 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:47:48 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:47:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:47:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.vis3d.layer.Skybox3dLayer$1
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.tactical.vis3d.layer.Village3dLayer$1
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.tactical.vis3d.layer.Car3dLayer$1
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.vis3d.layer.Group3dLayer
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.tactical.vis3d.layer.Person3dLayer$1
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.tactical.vis3d.layer.TacticalPerson3dLayer$1
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.vis3d.layer.Group3dLayer
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.vis3d.layer.Group3dLayer
+2015-04-14 10:47:48 [WARN ]: cz.agents.alite.vis3d.Vis3dManager - Registering 3d layer to not-started Vis3dManager!cz.agents.alite.vis3d.layer.SimulationControl3dLayer
+2015-04-14 10:47:48 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:47:48 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-14 10:49:08 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE CREATION
+2015-04-14 10:49:08 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING STARTED
+2015-04-14 10:49:08 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseMtlFile: Loaded 2889 lines
+2015-04-14 10:49:09 [INFO ]: cz.agents.alite.tactical.util.objreader.Parse - >>> Parse.parseObjFile: Loaded 36975 lines
+2015-04-14 10:49:09 [INFO ]: cz.agents.alite.tactical.util.objreader.ObjFileProcessing - >>> LOADING COMPLETED IN: 940 millisecond(s)
+2015-04-14 10:49:09 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 142 nodes
+2015-04-14 10:49:09 [INFO ]: cz.agents.alite.tactical.universe.world.map.StreetGraph - >>> Loaded: 498 edges
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Loaded: 299 buildings
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.tactical.universe.world.map.UrbanMap - >>> Generated crossroad markers
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION MANAGER CREATION
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION MANAGER CREATION
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> SIMULATION CREATION
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> ENVIRONMENT CREATION
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> VISUALIZATION CREATION
+2015-04-14 10:49:10 [INFO ]: student.creator.StudentTestingCreator - >>> CREATING UGV ENTITY
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> OVERLAY VISUALIZATION CREATION
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> 3d VISUALIZATION CREATION
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.pahtactical.creator.DefaultCreator - >>> UNIVERSE START
+2015-04-14 10:49:10 [INFO ]: cz.agents.alite.simulation.Simulation - >>> SIMULATION START
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:23 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:24 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:25 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:26 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-04-26 11:54:27 [WARN ]: cz.agents.alite.vis.VisManager - Vis layer cz.agents.alite.pahtactical.vis.PathLayer$1@1311cccd has thrown the following exception:
+java.lang.NullPointerException
+	at cz.agents.alite.pahtactical.vis.PathLayer$1.paint(PathLayer.java:24)
+	at cz.agents.alite.vis.VisManager.drawLayer(VisManager.java:184)
+	at cz.agents.alite.vis.VisManager.update(VisManager.java:177)
+	at cz.agents.alite.vis.VisManager.access$000(VisManager.java:47)
+	at cz.agents.alite.vis.VisManager$1.run(VisManager.java:63)
+	at java.lang.Thread.run(Thread.java:745)
+
